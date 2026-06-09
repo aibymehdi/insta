@@ -1,32 +1,4 @@
-## 🚀 **دنبال یه راه حتی سریع‌تر و ساده‌تر برای اسکرپ در مقیاس بالا هستی، فقط با ۵ خط کد؟** نسخه بهتر و کامل‌تر ما رو توی [**ScrapeGraphAI.com**](https://scrapegraphai.com/?utm_source=github&utm_medium=readme&utm_campaign=oss_cta&ut#m_content=top_banner) ببین! 🚀
 
----
-
-# 🕷️ ScrapeGraphAI: فقط یک بار اسکرپ کن
-
-<p align="center">
-  <a href="https://scrapegraphai.com">
-    <img src="media/banner.png" alt="ScrapeGraphAI" style="width: 100%;">
-  </a>
-</p>
-
-[English](README.md) | [中文](docs/chinese.md) | [日本語](docs/japanese.md)
-| [한국어](docs/korean.md)
-| [Русский](docs/russian.md) | [Türkçe](docs/turkish.md)
-| [Deutsch](docs/german.md)
-| [Español](docs/spanish.md)
-| [français](docs/french.md)
-| [Português](docs/portuguese.md)
-| [Italiano](docs/italian.md)
-
-[![PyPI Downloads](https://static.pepy.tech/personalized-badge/scrapegraphai?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/scrapegraphai)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![](https://dcbadge.vercel.app/api/server/gkxQDAjfeX)](https://discord.gg/gkxQDAjfeX)
-
-<p align="center">
-<a href="https://trendshift.io/repositories/15078" target="_blank"><img src="https://trendshift.io/api/badge/repositories/15078" alt="ScrapeGraphAI%2FScrapegraph-ai | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-<p align="center">
 
 [ScrapeGraphAI](https://scrapegraphai.com) یه کتابخونه پایتونی برای *وب‌اسکرپینگ*ه که از LLM و منطق مستقیم گرافی استفاده می‌کنه تا برای سایت‌ها و فایل‌های محلی مثل XML، HTML، JSON، Markdown و چیزهای مشابه، پایپ‌لاین اسکرپینگ بسازه.
 
